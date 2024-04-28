@@ -190,8 +190,6 @@ CCS_MAIN(int argc, char *argv[])
     fclose(fp_out_img);
     fclose(fp_crc_in_img);
     fclose(fp_crc_out_img);
-    //
-
   } //frm
 
   delete (dat_in_orig);
