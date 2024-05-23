@@ -11,8 +11,8 @@
 5. hls-ap - HLS Application Accelerator – Kernel (team)
 6. fsic-final – FSIC Final Project – FPGA & ASIC flow (team)
 ## Optional
-snp-lp – lower power design
-snp-dft – design for testing
+1. snp-lp – lower power design
+2. snp-dft – design for testing
 
 # Tools
 * Vitis/Vivado/Vitis HLS Software 2022.1
