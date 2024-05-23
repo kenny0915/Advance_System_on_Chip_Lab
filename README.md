@@ -14,7 +14,7 @@
 snp-lp – lower power design
 snp-dft – design for testing
 
-# Tools
+## Tools
 * Vitis/Vivado/Vitis HLS Software 2022.1
 * Simens/Mentor Catapult/QuestaSim - Access from ICLab
 * Synopsys - Access from ICLab
