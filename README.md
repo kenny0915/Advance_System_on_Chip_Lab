@@ -10,11 +10,11 @@
 4. fsic-fpga – Caravel-FSIC + FPGA-FSIC + DMA (team)
 5. hls-ap - HLS Application Accelerator – Kernel (team)
 6. fsic-final – FSIC Final Project – FPGA & ASIC flow (team)
-##Optional
+## Optional
 snp-lp – lower power design
 snp-dft – design for testing
 
-## Tools
+# Tools
 * Vitis/Vivado/Vitis HLS Software 2022.1
 * Simens/Mentor Catapult/QuestaSim - Access from ICLab
 * Synopsys - Access from ICLab
